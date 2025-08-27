@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-🎓 **Learner at ALX Software Engineering (Back End Website Program)**  
+🎓 **Learner at ALX Software Engineering (Back End Website Development)**  
 💡**Driven by curiosity, passion, and a vision for the future.**
 
 > *“I started my journey in software engineering because I am fascinated by the power of technology to solve real-world problems. I am passionate about building APIs and creating compelling websites that make a difference. My ultimate goal is to own an IT company that delivers top-notch website services globally.”*
@@ -37,13 +37,9 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Django-F7DF1E?style=for-the-badge&logo=django&logoColor=black" alt="Django"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 ---
@@ -91,9 +87,8 @@
 
 ## ✨ Fun Facts
 
-- 🎸 I love music and play guitar in my free time.
+- 🎸 I love music
 - 🌍 I enjoy learning about different cultures.
-- 🏃‍♂️ Marathon runner in the making.
 
 ---
 
